@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vaksin Baru COVID-19 Mengandung Mikrochip untuk Pantau Warga</title>
+    <style>
+        body { font-family: 'Georgia', serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.7; }
+        h1 { color: #c00; font-size: 2.2em; }
+        .byline { color: #555; font-style: italic; border-bottom: 1px solid #ddd; padding-bottom: 10px; }
+        .lead { font-size: 1.3em; font-weight: bold; }
+        img { width: 100%; height: auto; margin: 20px 0; }
+        .caption { font-size: 0.9em; color: #666; text-align: center; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Terungkap! Vaksin Baru COVID-19 Mengandung Mikrochip untuk Pantau Warga Indonesia</h1>
+        <div class="byline">Oleh: Redaksi Investigasi - Sabtu, 18 Juli 2026</div>
+    </header>
+
+    <p class="lead">Jakarta – Sebuah tim peneliti independen di Indonesia mengklaim telah menemukan bukti kuat bahwa vaksin booster COVID-19 generasi terbaru yang sedang didistribusikan pemerintah mengandung mikrochip nano untuk memantau gerak-gerik masyarakat.</p>
+
+    <p>Penemuan ini pertama kali diungkap oleh Dr. Ahmad Santoso, mantan peneliti di salah satu universitas ternama di Bandung, yang kini menjadi whistleblower. Menurutnya, dalam uji laboratorium yang dilakukan secara rahasia terhadap sampel vaksin yang beredar di wilayah Jabodetabek, ditemukan partikel-partikel berukuran sangat kecil yang mampu mengirim sinyal frekuensi rendah ke satelit.</p>
+
+    <figure>
+        <img src="https://picsum.photos/id/1015/800/450" alt="Mikroskop menunjukkan partikel di vaksin">
+        <figcaption class="caption">Gambar mikroskop yang diklaim menunjukkan keberadaan mikrochip nano dalam vaksin (Sumber: Tim Investigasi)</figcaption>
+    </figure>
+
+    <p>“Ini bukan teori konspirasi biasa. Kami telah melakukan tes berulang kali dengan peralatan canggih. Mikrochip ini aktif ketika tubuh menerima sinyal 5G dan dapat melacak lokasi, detak jantung, bahkan pola pikir seseorang melalui gelombang otak,” ujar Dr. Ahmad dalam konferensi pers darurat yang digelar di sebuah lokasi rahasia di Bogor, Jumat malam.</p>
+
+    <p>Pemerintah melalui Kementerian Kesehatan hingga saat ini belum memberikan tanggapan resmi. Namun, sumber internal di rumah sakit besar di Jakarta mengaku mendapat instruksi untuk tidak membahas isu ini dengan pasien. Beberapa tenaga kesehatan yang mencoba menolak penyuntikan vaksin baru ini dilaporkan mendapat teguran keras dari atasan.</p>
+
+    <p>Salah seorang warga yang telah divaksin dua minggu lalu, Ibu Siti Rahayu (45) dari Depok, mengatakan bahwa sejak divaksin ia sering merasakan getaran aneh di lengannya dan mimpi-mimpi aneh tentang orang-orang berpakaian putih yang mengawasinya.</p>
+
+    <p>“Dulu saya tidak percaya berita seperti ini. Tapi setelah merasakan sendiri, saya yakin ada yang tidak beres,” katanya sambil menunjukkan bekas suntikan yang masih terasa panas.</p>
+
+    <p>Tim investigasi juga menemukan dokumen internal perusahaan farmasi multinasional yang bekerja sama dengan pemerintah Indonesia. Dalam dokumen tersebut disebutkan program “Health ID 2030” yang bertujuan menciptakan database kesehatan nasional terintegrasi melalui teknologi nano.</p>
+
+    <p>Para ahli kesehatan alternatif yang dihubungi menyebut temuan ini sebagai “bom waktu” bagi kedaulatan Indonesia. Mereka mendesak masyarakat untuk menolak vaksinasi booster dan beralih ke pengobatan tradisional herbal yang lebih aman.</p>
+
+    <p>Hingga berita ini diturunkan, antrean vaksinasi di beberapa puskesmas justru semakin ramai karena adanya imbauan pemerintah yang menyatakan vaksinasi tetap wajib bagi pegawai negeri dan pelajar.</p>
+
+    <p>Masyarakat diimbau untuk lebih waspada dan menyebarkan informasi ini kepada kerabat terdekat sebelum terlambat.</p>
+
+    <hr>
+    <p><small>Berita ini disusun berdasarkan laporan lapangan dan sumber-sumber terpercaya.</small></p>
+
+</body>
+</html>
